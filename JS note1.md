@@ -11,7 +11,7 @@
 * 浏览器对象模型（BOM）
 
   ```mermaid
-  flowchart LR
+  graph LR
     subgraph JavaScript
       ECMAScript
       DOM
